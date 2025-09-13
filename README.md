@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Algerian Forest Fires FWI Prediction Project](https://github.com/fgdhs788687/Algerisn-Forest-Fire.git)
 
-- 🌱 I’m currently learning **Im,learning Flask Frmework for my web applications and i am also exploring foundational classification algorithms like Logistic Regression, SVM, Naive Bayes, and Decision Trees to build my machine learning Projects.**
+- 🌱 I’m currently learning **Flask Frmework for my web applications and i am also exploring foundational classification algorithms like Logistic Regression, SVM, Naive Bayes, and Decision Trees to build my machine learning Projects.**
 
 - 💬 Ask me about **ML Algorithms**
 
